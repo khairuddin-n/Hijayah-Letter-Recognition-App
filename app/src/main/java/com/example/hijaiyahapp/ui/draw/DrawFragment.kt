@@ -45,6 +45,7 @@ class DrawFragment : Fragment(R.layout.fragment_draw) {
             val randomLabel = labels[random.nextInt(labels.size)]
             questionText.text = randomLabel
             drawView.clear()
+            drawView.setBorderColor(Color.BLACK)
             Log.d("DrawFragment", "Generated question: $randomLabel")
         }
 
