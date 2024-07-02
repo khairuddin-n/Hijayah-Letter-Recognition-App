@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hijaiyah App</string>
+    <string name="title_draw">Draw Hijaiyah</string>
+    <string name="title_upload">Upload Image</string>
+    <string name="draw">Draw Character</string>
+    <string name="drawing_area">Drawing area</string>
+    <string name="erase">Erase</string>
+    <string name="upload">Upload Image</string>
+    <string name="predict">Predict</string>
+    <string name="clear">Clear</string>
+    <string name="generate">New</string>
+    <string name="question_placeholder">Write the Hijaiyah character: %1$s</string>
+    <string name="correct">Correct! Well done!</string>
+    <string name="incorrect">Incorrect. Try again!</string>
+    <string name="uploaded_image">Uploaded Hijaiyah character image</string>
+    <string name="prediction_result">Prediction: %1$s</string>
+    <string name="upload_instruction">Tap to select an image of a Hijaiyah character</string>
+</resources>
